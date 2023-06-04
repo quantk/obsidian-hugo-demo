@@ -7,7 +7,8 @@ tags: []
 categories: []
 series: []
 ---
-![](./assets/Pasted%20image%2020230604105354.png)
+![](../obsidian-hugo-demo/posts/assets/image.png)
+
 [Link to another post](Link%20to%20another%20post.md)
 # What is Lorem Ipsum?
 
