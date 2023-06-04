@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://quantk.github.io/obsidian-hugo-demo/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-paper"
